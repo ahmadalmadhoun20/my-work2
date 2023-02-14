@@ -30,7 +30,7 @@ $(document).ready(function(){
                 nav: false
             }
         }
-    })
+    });
 
 });
 var top1 = document.querySelector('.top1');

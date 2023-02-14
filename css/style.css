@@ -397,19 +397,19 @@ section {
     font-weight: 500;
     margin: 10px 0 7px 0;
 }
-.team .corousel .card :hover {
+.team .corousel .card:hover {
     background: crimson;
     border-radius: 10px;
 
 }
-.team .corousel .card :hover img {
+.team .corousel .card:hover img {
     height: 150px;
     width: 150px;
     border: 5px solid #fff;
     border-radius: 50%;
 }
-.team .corousel .card :hover {
-    transform: scale(1.05);
+.team .corousel .card:hover {
+    transform: scale(1.01);
 }
 /* .owl-dots {
     text-align: center;
